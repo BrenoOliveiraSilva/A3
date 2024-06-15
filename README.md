@@ -12,7 +12,8 @@ Base do projeto com as classes
 
 ### `Funcionario`
 
-<h3>Cliente</h3>
+# `Cliente`
+
 - Nome
 - CPF
 - Email
