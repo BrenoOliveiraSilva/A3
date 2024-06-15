@@ -12,7 +12,17 @@ Base do projeto com as classes
 
 ### `Funcionario`
 
-# `Cliente`
+- Nome
+- Telefone
+- Email
+- CPF
+- Idade
+- Endereço
+- Usuário
+- Senha
+- Registro
+
+### `Cliente`
 
 - Nome
 - CPF
@@ -22,3 +32,10 @@ Base do projeto com as classes
 - Endereço
 
 ### `Projeto`
+
+- Nome do Projeto
+- Paleta Obrigátoria
+- Paleta Proibida
+- Observações
+- Data da Entrega
+- Data de Início
