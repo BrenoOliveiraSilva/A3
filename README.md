@@ -13,11 +13,11 @@ Base do projeto com as classes
 ### `Funcionario`
 
 <h3>Cliente</h3>
-* Nome
-* CPF
-* Email
-* Telefone
-* Idade
-* Endereço
+- Nome
+- CPF
+- Email
+- Telefone
+- Idade
+- Endereço
 
-<h3>Projeto</h3>
+### `Projeto`
