@@ -39,3 +39,10 @@ Base do projeto com as classes
 - Observações
 - Data da Entrega
 - Data de Início
+
+## Funções
+
+- Cadastrar funcionários
+- Logar no sistema com usuário e senha de funcionários
+- Cadastrar clientes e projetos
+- Verificar projetos e clientes no sistema
