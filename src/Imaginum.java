@@ -220,9 +220,7 @@ public class Imaginum {
                 // EXIBIR PROJETOS
                 clientsAndProjectsPanel.add(new JLabel("Projetos:"));
                 for (Project project : projects) {
-                    clientsAndProjectsPanel.add(new JLabel("Cliente: " + project.getName()));
-                    clientsAndProjectsPanel.add(new JLabel("Projeto: " + project.getProjectName()));
-                    clientsAndProjectsPanel.add(new JLabel("Data de Entrega: " + project.getDeadline()));
+                    clientsAndProjectsPanel.add(new JLabel(project.toString()));
                 }
 
                 JOptionPane.showMessageDialog(null, clientsAndProjectsPanel);

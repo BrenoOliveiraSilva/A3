@@ -82,4 +82,9 @@ public class Project {
     public String getName() {
         return Client.getName();
     }
+
+    @Override
+    public String toString() {
+        return "Nome do projeto: " + projectName + " | Data de início: " + startDate + " | Prazo: " + deadline + " | Cliente: " + Client.getName() + "\n";
+    }
 }
